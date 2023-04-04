@@ -1,6 +1,6 @@
 .idea
-./data/audio/*
-./data/features/*
+data/audio/*
+data/features/*
 # Byte-compiled / optimized / DLL files
 ../../End-Of-Turn-Prediction/.idea
 __pycache__/
